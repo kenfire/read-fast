@@ -6,4 +6,18 @@ You can select the speed with a slider from 60 words per minutes to 1000 words p
 
 Test your reading ability, and have fun.
 
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/kenfire/read-fast.git
+
+# Install dependecies
+npm i
+# Launch the web page
+npm start
+```
+## TODO
+-[ ] Create tests
+
+## Demo
 ![Demo gif](demo.gif)
