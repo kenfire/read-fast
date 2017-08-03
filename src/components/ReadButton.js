@@ -4,11 +4,11 @@ import {Button} from "material-ui";
 export class ReadButton extends React.Component {
     render() {
         return (
-            <di>
+            <div>
                 <Button raised color="accent" onClick={this.props.toggle}>
                     Read Fast !
                 </Button>
-            </di>
+            </div>
         );
     }
 }
